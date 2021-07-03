@@ -1,6 +1,9 @@
 # 날먹
 ### (날씨에 따른 맛집추천 앱)
 
+## 영상
+[![영상](http://img.youtube.com/vi/KLFhXOLd5yo/0.jpg)](https://www.youtube.com/watch?v=KLFhXOLd5yo)
+
 ## UI FLOW
 
 ![image](https://user-images.githubusercontent.com/60119368/119323186-66869600-bcb9-11eb-8721-85ca34516a84.png)
